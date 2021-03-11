@@ -5,4 +5,4 @@ permalink: /about.html
 ---
 ### About
 
-You can contact me via brian [at] btrfld.com
+brian [at] btrfld.com
