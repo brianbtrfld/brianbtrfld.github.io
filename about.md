@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "About"
-description: ""
+description: "Brian G. Butterfield"
 permalink: /about.html
 ---
 ### About
