@@ -1,13 +1,10 @@
 ---
 layout: default
-title: "About"
-description: "BTRFLD"
 permalink: /about.html
 ---
 
 ## Brian Butterfield
 ### Developer of early talent
-### brian [at] btrfld.com
 
 ---
 
