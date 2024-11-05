@@ -1,3 +1,1 @@
-# BTRFLD
-
 ## [About](/about.html)
