@@ -2,11 +2,10 @@
 layout: default
 permalink: /about.html
 ---
+# About
 
-## Brian Butterfield
-### Developer of early talent
-
----
+## [South Dakota Mines](https://www.sdsmt.edu/eecs)
+### Brian Butterfield
 
 ## [Atlas Tuning and Performance](https://atlastuningperformance.com)
 ### Michael Butterfield
