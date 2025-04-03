@@ -5,7 +5,7 @@ permalink: /about.html
 # About
 
 ## [Brian Butterfield](https://www.linkedin.com/in/brianbtrfld/)
-Brian is a Lecturer in the Electrical Engineering and Computer Science Department at [South Dakota Mines](https://www.sdsmt.edu/eecs).
+Brian is a Lecturer in the Electrical Engineering and Computer Science Department at [South Dakota Mines](https://www.sdsmt.edu/eecs) and the Founder of [Compile Black Hills](https://compileblackhills.org)
 
 ## Michael Butterfield
 Michael is a founder and owner of [Atlas Tuning and Performance](https://atlastuningperformance.com), located in Sioux Falls, South Dakota.
