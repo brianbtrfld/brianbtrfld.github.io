@@ -11,7 +11,7 @@ Brian is a Lecturer in the Electrical Engineering and Computer Science Departmen
 Michael is a founder and owner of [Atlas Tuning and Performance](https://atlastuningperformance.com), located in Sioux Falls, South Dakota.
 
 ## [Alec Butterfield](https://www.alecbutterfield.com)
-Alec is a photography and multimedia student at [Black Hills State University](https://www.bhsu.edu).
+Alec is a photography and multimedia journalism student at [Black Hills State University](https://www.bhsu.edu).
 
 ## [Alisha Butterfield](https://www.linkedin.com/in/alisha-butterfield-4a095b197/)
 Alisha is a Director of Branch Operations at  [Summit Wealth Group](https://www.summitwealthgroup.com/team/alisha-butterfield).
